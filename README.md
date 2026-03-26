@@ -28,7 +28,7 @@ Welcome to my data analytics portfolio! I'm passionate about turning raw data in
 - **Impact:** Identified contract type and tenure as the strongest churn predictors
 - **Key Finding:** Month-to-month customers are 8x more likely to churn than 2-year contract customers
 
-![Churn Analysis](project-2-customer-churn/screenshots/churn_by_contract.png)
+![Churn Analysis](project-2-customer-insights/python-visualizations/churn_by_contract.png)
 
 ---
 
@@ -40,7 +40,7 @@ Welcome to my data analytics portfolio! I'm passionate about turning raw data in
 - **Impact:** Identified top/bottom performing products and regional trends
 - **Key Finding:** Technology category has highest profit margin at 22%
 
-![Sales Dashboard](project-1-superstore-sales/screenshots/executive_overview.png)
+![Sales Dashboard](project-1-sales-analysis/screenshots/executive_overview.png)
 
 ---
 
