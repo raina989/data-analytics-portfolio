@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Raina
 
 **Data Analyst | SQL | Python | Tableau | Power BI**
 
