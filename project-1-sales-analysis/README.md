@@ -72,11 +72,11 @@ Open in Power BI Desktop
 Use slicers to filter by region, category, or date
 
 📫 Connect with Me
-GitHub: [your-github-username]
+GitHub: https://github.com/raina989
 
-LinkedIn: [your-linkedin-url]
+LinkedIn: www.linkedin.com/in/raina-khanam
 
-Email: [your-email]
+Email: khanraina12@gmail.com
 
 Project completed as part of Data Analytics Portfolio
 
