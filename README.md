@@ -8,7 +8,7 @@ Welcome to my data analytics portfolio! I'm passionate about turning raw data in
 
 ## 📁 Featured Projects
 
-### 1. 🛍️ [Brazilian E-Commerce Analytics](project-3-ecommerce-analysis/)
+### 1. 🛍️ [Brazilian E-Commerce Analytics](project-3-capstone/)
 
 **End-to-end analysis of 100,000+ orders**
 
@@ -20,7 +20,7 @@ Welcome to my data analytics portfolio! I'm passionate about turning raw data in
 
 ---
 
-### 2. 📞 [Customer Churn Analysis](project-2-customer-churn/)
+### 2. 📞 [Customer Churn Analysis](project-2-customer-insights/)
 
 **Predicting and reducing customer attrition**
 
@@ -32,7 +32,7 @@ Welcome to my data analytics portfolio! I'm passionate about turning raw data in
 
 ---
 
-### 3. 🏪 [Superstore Sales Analysis](project-1-superstore-sales/)
+### 3. 🏪 [Superstore Sales Analysis](project-1-sales-analysis/)
 
 **Sales performance and product profitability**
 
