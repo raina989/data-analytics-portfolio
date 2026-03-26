@@ -28,7 +28,7 @@ Welcome to my data analytics portfolio! I'm passionate about turning raw data in
 - **Impact:** Identified contract type and tenure as the strongest churn predictors
 - **Key Finding:** Month-to-month customers are 8x more likely to churn than 2-year contract customers
 
-![Churn Analysis](project-2-customer-insights/python-visualizations/churn_by_contract.png)
+![Churn Analysis](\project-2-customer-insights\python_visualizations\churn_by_contract.png)
 
 ---
 
