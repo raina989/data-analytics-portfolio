@@ -1,0 +1,4 @@
+data/*.csv 
+*.pbix.lock 
+__pycache__/ 
+.ipynb_checkpoints/ 
