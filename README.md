@@ -16,7 +16,7 @@ Welcome to my data analytics portfolio! I'm passionate about turning raw data in
 - **Impact:** Identified $16M+ revenue trends, customer segments, and delivery time impact on satisfaction
 - **Key Finding:** 0-5 day delivery = 4.5⭐ | 15+ day delivery = 3.2⭐
 
-![E-Commerce Dashboard](../project-3-ecommerce-analysis/screenshots/page1_executive_summary.png)
+![E-Commerce Dashboard](../project-3-capstone/screenshots/page1_executive_summary.png)
 
 ---
 
