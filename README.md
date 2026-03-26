@@ -16,7 +16,7 @@ Welcome to my data analytics portfolio! I'm passionate about turning raw data in
 - **Impact:** Identified $16M+ revenue trends, customer segments, and delivery time impact on satisfaction
 - **Key Finding:** 0-5 day delivery = 4.5⭐ | 15+ day delivery = 3.2⭐
 
-![E-Commerce Dashboard](project-3-ecommerce-analysis/screenshots/page1_executive_summary.png)
+![E-Commerce Dashboard](../project-3-ecommerce-analysis/screenshots/page1_executive_summary.png)
 
 ---
 
@@ -25,7 +25,7 @@ Welcome to my data analytics portfolio! I'm passionate about turning raw data in
 **Predicting and reducing customer attrition**
 
 - **Tools:** Python, Pandas, Matplotlib, AI Dashboards
-- **Impact:** Identified contract type and tenure as strongest churn predictors
+- **Impact:** Identified contract type and tenure as the strongest churn predictors
 - **Key Finding:** Month-to-month customers are 8x more likely to churn than 2-year contract customers
 
 ![Churn Analysis](project-2-customer-churn/screenshots/churn_by_contract.png)
